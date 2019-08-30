@@ -13,7 +13,7 @@ router.post('/notes',function(req,res){
        })
 
 })
-// router.edit('/edit',function(req,res){
+// router.edit('/edit:id',function(req,res){
 //     const body = req.body
 // })
 module.exports = {
